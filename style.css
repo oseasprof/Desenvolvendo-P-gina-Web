@@ -1,0 +1,26 @@
+h2 {
+    color: rgba(232, 248, 4, 0.938)
+}
+
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    border-top: 1px solid grey;
+}
+
+#nome-usuario{
+    font-weight: bold;
+}
+.texto-ingles{
+    font-style: italic;
+}
